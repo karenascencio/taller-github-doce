@@ -1,9 +1,18 @@
 linea 1
 
 cambios-uno
+
 master 1
+conflicto-uno
 master 2
+conflicto-dos
 master 3
+conflicto-tres
 master 4
+conflicto-cuatro
 master 5
 master 6
+
+
+
+
