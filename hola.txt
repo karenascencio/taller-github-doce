@@ -1,3 +1,7 @@
 linea 1
 
 cambios-uno
+conflicto-uno
+conflicto-dos
+conflicto-tres
+conflicto-cuatro
